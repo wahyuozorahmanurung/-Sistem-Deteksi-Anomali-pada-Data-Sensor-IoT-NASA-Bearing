@@ -1,0 +1,1 @@
+# -Sistem-Deteksi-Anomali-pada-Data-Sensor-IoT-NASA-Bearing
